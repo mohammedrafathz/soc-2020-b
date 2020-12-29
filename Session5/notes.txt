@@ -1,0 +1,39 @@
+30/11/2020
+
+1. Week - 1 problem set solutions
+
+2. This week 
+    Session - 5
+    -> Linux/Unix operating system
+    -> Basic commands
+    -> Linux directories
+    Session - 6
+    -> Files in linux
+    -> Shell History
+    -> Process Management
+    Session - 7
+    -> Soft & Hard links
+    -> Permissions
+    -> CLI editors
+    Session - 8
+    -> Cron jobs
+    -> Getting started with Web Development
+    Session - 9
+    -> HTML5 tags
+    -> Getting started with CSS3
+
+3. The Unix OS
+    -> History
+    -> interpreter vs compiler
+
+4. Architecture of Unix
+    -> root user
+    -> $ vs #
+    -> Kernel
+    -> Shell
+    -> Commands and Utilities
+    -> Files and Directories
+
+5. Basic commands in linux
+
+

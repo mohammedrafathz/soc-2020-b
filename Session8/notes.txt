@@ -1,0 +1,32 @@
+1. What is cron?
+
+2. Why do we need crons. Real world use cases.
+
+3. Writing cron script
+
+4. HTML tags
+    -> Lists
+    -> images
+    -> tables
+    -> audio & video 
+    -> forms
+    -> input fields
+
+text vs email vs password
+
+C - Create - POST
+R - Read - GET
+U - Update - PUT
+D - Delete - DELETE
+
+operations
+
+validations
+
+5. Additional markup
+
+6. Class, Id Attributes
+
+7. Inline and block level elements
+
+8. Iframes

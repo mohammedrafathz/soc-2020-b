@@ -1,0 +1,5 @@
+1. Building cli apps
+
+2. cli calculator
+
+3. weather report app 

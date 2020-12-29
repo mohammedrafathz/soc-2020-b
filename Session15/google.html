@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      body {
+        margin: 0;
+        height: 100vh;
+        overflow: hidden;
+      }
+
+      .footer {
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+      }
+
+      .list {
+        display: inline-block;
+        list-style: none;
+      }
+
+      .list li {
+        display: inline-block;
+        list-style: none;
+      }
+
+      .align-right {
+        float: right;
+      }
+
+      .align-left {
+        float: left;
+      }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <div class="align-left">
+        <ul class="list">
+          <li>Gmail</li>
+          <li>Images</li>
+        </ul>
+      </div>
+    </nav>
+    <main>
+      <img src="./google.png" alt="" />
+      <form action="#">
+        <input type="search" />
+        <button>Google Search</button>
+        <button>I'm Feeling Lucky</button>
+      </form>
+    </main>
+    <footer class="footer">
+      <div class="top">
+          <ul  class="list">
+            <li>India</li>
+          </ul>
+      </div>
+      <div class="bottom">
+        <div class="align-left">
+          <ul class="list">
+            <li>Advertising</li>
+            <li>Business</li>
+            <li>About</li>
+            <li>How Search works</li>
+          </ul>
+        </div>
+
+        <div class="align-right">
+          <ul class="list">
+            <li>Privacy</li>
+            <li>Terms</li>
+            <li>Settings</li>
+          </ul>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

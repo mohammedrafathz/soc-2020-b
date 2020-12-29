@@ -1,0 +1,20 @@
+0. loading js files in HTML
+
+1. switch statemnt
+
+2. Looping statemnts
+
+3. exception handling
+
+4. debugger keyword, use strict
+
+5. Expression 
+
+6. Operators in Javascript
+
+7. git
+
+
+
+
+

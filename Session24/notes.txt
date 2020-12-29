@@ -1,0 +1,14 @@
+1. NPM & Node
+
+2. Weather API Project
+
+3. code.in clone
+
+
+node is javascript runtime env outside browser
+browser js vs node js
+
+-> browser js cannot access file system
+-> 
+
+npm - node package manager

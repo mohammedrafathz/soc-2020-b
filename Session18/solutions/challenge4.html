@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <style>
+      .rectangle {
+        height: 50px;
+        width: 100px;
+        background-color: #555;
+      }
+      .trapezoid {
+        border-bottom: 50px solid #555;
+        border-left: 25px solid transparent;
+        border-right: 25px solid transparent;
+        height: 0;
+        width: 125px;
+      }
+    </style>
+  </head>
+  <body>
+    <h2>Trapezoid CSS</h2>
+    <div class="trapezoid" id="trapezoid"></div>
+  </body>
+  <script>
+    function myFunction() {
+      setInterval(function () {
+        var elem = document.querySelector(".trapezoid");
+        var style = getComputedStyle(elem);
+        ///var h = Number(style.height.split("px")[0]) + 1;
+        var w = Number(style.width.split("px")[0]) + 2;
+        var bb = Number(style.borderBottom.split("px")[0]) + 1;
+        var br = Number(style.borderLeft.split("px")[0]) + 1;
+        var bl = Number(style.borderRight.split("px")[0]) + 1;
+        
+        if (w <= 800) {
+          //document.getElementById("trapezoid").style.height = `${h}px`;
+          document.getElementById("trapezoid").style.width = `${w}px`;
+          document.getElementById("trapezoid").style.borderBottom = `${bb}px  solid #555`;
+          document.getElementById("trapezoid").style.borderLeft = `${bl}px solid transparent`;
+          document.getElementById("trapezoid").style.borderRight = `${br}px solid transparent`;
+          console.log(h, w);
+        }
+      }, 100);
+    }
+    myFunction();
+  </script>
+</html>

@@ -1,0 +1,21 @@
+1. Cascading order.
+    -> The last rule
+    
+2. Different types of CSS selectors
+
+3. Using class and id selectors
+
+4. Specificity
+    -> !important
+
+5. CSS Box Model
+    -> Borders
+    -> Padding
+    -> Margins
+
+6. Units in CSS
+    https://www.w3schools.com/cssref/css_units.asp
+
+7. Designing a login page using CSS
+
+8. Javascript

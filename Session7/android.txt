@@ -1,0 +1,19 @@
+Cupcake	
+Donut	
+Eclair	
+Froyo	
+Gingerbread	
+Honeycomb	
+Jelly Bean	
+Jelly Bean	
+Jelly Bean	
+KitKat
+KitKat
+KitKat
+Lollipop
+Pie	9
+Marshmallow
+Android 10
+Nougat	
+Pie	9
+Android 11

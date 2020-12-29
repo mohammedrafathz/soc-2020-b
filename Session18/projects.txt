@@ -1,0 +1,28 @@
+PROJECT IDEAS
+
+1. Word editor app - Samra
+
+2. CSS minifier - Syed tabs
+
+3. Calendar(Displays your age) - Asma
+
+4. Quiz app -- Omer
+
+5. Music Player - SNB
+
+6. Online Dictonary -- Wardha
+
+7. Color selector app -- Abdul Rahman
+
+8. Selfie app -- Samra
+
+9. Simple Calculator - Shaan
+
+Advance
+
+1. Ecommerce app - with cart -- Omer & Abdul Rahman
+
+2. Blogging website - Asma & Shaan
+
+3. Restaurant Menu app - Wardha & Samra
+

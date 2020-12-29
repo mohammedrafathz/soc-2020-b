@@ -1,0 +1,9 @@
+0. Assignment solutions
+
+1. Cirriculum
+
+2. Javascript Scope and Hoisting
+    -> methods
+    -> examples
+
+3. code.in clone

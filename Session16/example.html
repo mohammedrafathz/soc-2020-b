@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        @font-face {
+            font-family: "Unsteady";
+            src: url("./unsteadyoversteer.ttf");
+        }
+    </style>
+</head>
+<body>
+
+    <input type="text" name="" id="textInput">
+    <button id="btnSubmit">Submit</button>
+    
+    <h3 id="display"></h3>
+
+    <script>
+        let textInput = document.querySelector("#textInput");
+        let btnSubmit = document.getElementById("btnSubmit");
+        let displayText = document.getElementById("display");
+
+        displayText.style.fontFamily = "Unsteady";
+
+        btnSubmit.onclick = triggerSubmit;
+
+        function triggerSubmit(){
+                let textValue = textInput.value;
+                displayText.innerText = textValue;
+        }
+
+    </script>
+</body>
+</html>

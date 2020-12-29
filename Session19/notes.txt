@@ -1,0 +1,16 @@
+0. Solutions
+
+1.Getting started with bootstrap
+    -> setting up bootstrap 
+
+2. Bootstrap Grid System
+
+3. Typography
+
+4. Colors 
+
+5. Images
+
+6. Alerts
+
+7. Buttons

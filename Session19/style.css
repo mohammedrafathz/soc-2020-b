@@ -1,0 +1,142 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family:"Nunito Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+@font-face{
+    font-family: "Unsteady";
+    src: url("./unsteady_oversteer.ttf");
+}
+
+.logo{
+    font-family: "Unsteady";
+    font-size: 64px;
+    text-align: center;
+    margin-bottom: 8px
+}
+
+.nav-bar{
+    width: 100%;
+}
+
+.nav-bar ul{
+    list-style-type: none;
+}
+
+.nav-bar ul li{
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;import React from 'react';
+    import { Button } from '@material-ui/core';
+    
+    function App() {
+      return <Button color="primary">Hello World</Button>;
+    }
+
+.nav-bar ul li a:hover{
+    color: #1a1a1a;
+}
+
+.float-right{
+    float: right;
+}
+
+.float-left{
+    float: left;
+}
+
+.main-hero{
+    padding-top: 200px;
+    text-align: center;
+margin-bottom: 300px;
+}
+
+.blue{
+color: #4285f4;
+}
+.green{
+color: #34a853;
+}
+
+.title{
+    font-size: 48px;
+    margin: 0;
+}
+
+.card{
+    display: inline-block;
+    padding: 48px;
+    width: 350px;
+    text-align: center;
+    border: 1px solid lightgray;
+    height: 220px;
+    margin: 20px
+}
+
+#imgKids{
+    width: 200px;
+}
+
+#imgStudio{
+    width:250px
+}
+#imgBootcamp{
+    width:100%
+}
+#imgCompiler{
+    width: 100%
+}
+
+#imgLive{
+    width: 250px
+}
+
+#imgEmail{
+    width: 250px
+}
+#imgEdu{
+    width: 200px
+}
+#imgApply{
+    width: 100%
+}
+#imgCommunity{
+    width: 218px
+}
+
+.products{
+    width: 1200px;
+    margin: 0 auto
+}
+
+.card-kids{
+    border-top:2px solid #7ED957;
+}
+.card-studio{
+    border-top:2px solid #FBBD01;
+}
+.card-bootcamp{
+    border-top:2px solid black;
+}
+.card-compiler{
+    border-top:2px solid #008037;
+}
+.card-live{
+    border-top:2px solid #FF1717;
+}
+.card-email{
+    border-top:2px solid #545454;
+}
+.card-edu{
+    border-top:2px solid #545454;
+}
+.card-apply{
+    border-top:2px solid #31AB50;
+}
+.card-community{
+    border-top:2px solid #FF1717;
+}

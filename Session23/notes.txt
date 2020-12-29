@@ -1,0 +1,11 @@
+1. Portfolio website
+
+2. advance git commands
+
+3. Weather API
+
+4. npm & node 
+
+5. CLI apps 
+    weather API
+

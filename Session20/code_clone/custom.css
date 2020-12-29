@@ -1,0 +1,84 @@
+
+@font-face{
+    font-family: "Unsteady";
+    src: url("./unsteady_oversteer.ttf");
+}
+
+.nav-link{
+    font-size: 18px;
+    color: #5f6368 !important;
+}
+
+.nav-item{
+    margin-right: 2rem;
+}
+
+.navbar-nav{
+    margin-top: 8px;
+}
+
+.main-container{
+    text-align: center;
+    margin: 150px 0 200px 0;
+}
+
+.logo{
+    font-size: 80px;
+    font-family: "Unsteady";
+}
+
+.logo-highlight{
+    font-size: 58px;
+}
+
+.first-bootcamp{
+    color: #ea4335;
+}
+
+.blue{
+    color: #4285f4;
+}
+
+.green{
+    color: #34a853;
+}
+
+.card{
+    height: 210px;
+    margin-top: 50px;
+}
+
+.kids-border{
+    border-top: 2px solid #7ED957;
+}
+
+.studio-border{
+    border-top: 2px solid #FBBD01;
+}
+
+
+.bootcamp-border{
+    border-top: 2px solid #000000;
+}
+
+.compiler-border{
+    border-top: 2px solid #008037;
+}
+.live-border{
+    border-top: 2px solid #FF1717;
+}
+.email-border{
+    border-top: 2px solid #545454;
+}
+.edu-border{
+    border-top: 2px solid #545454;
+}
+
+.apply-border{
+    border-top: 2px solid #31AB50;
+}
+
+
+.community-border{
+    border-top: 2px solid #FF1717;
+}   

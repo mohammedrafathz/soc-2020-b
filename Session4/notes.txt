@@ -1,0 +1,62 @@
+Recap 
+-> DNS Architecture
+-> Why can't computers directly communicate in a high level language
+-> Intro to computer number system
+-> Binary Arithmetic
+-> Conversions
+
+1. Complement in Binary number system
+    -> unsigned number
+    -> signed number (0 means +, 1 means -)
+    -> MSB, LSB
+
+2. Floating point number conversions
+    -> decimal 34.625 to Binary
+    -> Binary 1010.1111 to decimal
+
+3. Storage units
+    Nibble   | Half a Byte    | 4 bits
+    Byte     | 8 bits         | 1 Byte
+    KiloByte | 1024 Bytes     | 1 KB
+    MegaByte | 1024 KiloBytes | 1 MB
+    GigaByte | 1024 MegaBytes | 1 GB
+    TeraByte | 1024 GigaBytes | 1 TB
+
+4. How many bits do I need to store decimal 17?
+
+5. Given 4 bits, what are the minimum and maximum number you can store?
+
+6. Given 8 bits, what are the minimum and maximum number you can store?
+
+7. Biggest Binary Number given n?
+
+8. Applications of Binary Numbers 
+    -> ASCII
+    -> IP Address
+        https://in.pcmag.com/networking/67690/the-abcs-of-ip-addresses
+
+0100 0011 - C
+0100 1111 - O
+0100 0100 - D
+0100 0101 - E
+
+IEEE 754
+If you get 0.3 when you add 0.2 + 0.1 , You have a supercomputer.
+
+9.External Resources :
+    1. https://www.tutorialspoint.com/computer_fundamentals/computer_number_system.htm
+    2. https://www.tutorialspoint.com/computer_fundamentals/computer_number_conversion.htm
+    3. https://www.geeksforgeeks.org/number-system-and-base-conversions/
+    4. https://www.tutorialspoint.com/computer_logical_organization/complement_arithmetic.htm
+    5. https://www.tutorialspoint.com/computer_logical_organization/binary_arithmetic.htm
+    6. https://www.tutorialspoint.com/computer_logical_organization/logic_gates.htm
+    7. https://www.dyclassroom.com/conversion/decimal-to-binary-conversion-of-a-number-with-fractional-part
+    8. http://www.vlsm-calc.net/ipclasses.php
+    9. https://www.tutorialspoint.com/ipv4/ipv4_address_classes.htm
+    10. http://weitz.de/ieee/
+
+10. HTML tags
+    -> Lists
+    -> images
+    -> tables
+    -> audio & video 

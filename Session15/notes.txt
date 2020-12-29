@@ -1,0 +1,11 @@
+1.Fonts in CSS
+
+2.The font property
+
+3.Google fonts
+
+4.Styling HTML list 
+
+5.Creating Navbars
+
+6. Project 1: Google home page clone

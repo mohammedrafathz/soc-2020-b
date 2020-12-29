@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p id="para">just getting started with DOM</p>
+  </body>
+  <script>
+  let para = document.getElementById("para");
+
+  para.innerText = "I have changed";
+
+  para.onclick = function () {
+      alert("someone clicked me")
+  }
+
+  para.style.backgroundColor = "red"
+  para.style.color = "white"
+  para.style.padding = "20px"
+  </script>
+</html>

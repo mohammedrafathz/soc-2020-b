@@ -1,0 +1,25 @@
+1. File globbing
+    
+2. Process Management
+    -> A process is an instance of a program
+    -> Unix/Linux creates special env which is needed by program to run
+    -> OS tracks alls its processes by its pid which is process ID
+    -> PID are not port numbers & pids are recycled by Unix
+    -> foreground
+    -> background
+
+3. Filter commands
+
+4. Soft links vs hard links
+    -> Inode number
+
+5. File permissions in linux
+
+6. CLI editors
+    -> How to perform copy paste
+    -> Search and replace
+    -> Shorcuts
+
+
+    python 2.7 - python -m SimpeHTTPServer 8080
+    python 3 - python3 -m http.server 8080

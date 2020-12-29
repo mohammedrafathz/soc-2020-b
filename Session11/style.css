@@ -1,0 +1,44 @@
+body {
+    font-family: monospace;
+  }
+  /* h1#header {
+    color: red;
+  }*/
+  h1+p{
+      color: red;
+  }
+
+/* 
+  /* h1~p{
+    color: blue;
+} */ */
+
+  li > a {
+    text-decoration: none;
+    color: green;
+  }
+
+
+  p a {
+      text-align: center;
+    color: blue;
+    text-decoration: none;
+  }
+
+  #headerPara{
+    color: black;
+  }
+
+  .para{
+      font-family: Arial, Helvetica, sans-serif;
+      text-transform: capitalize;
+      /* color: brown; */
+  }
+
+  p{
+    /* color: burlywood !important; */
+}
+  
+  .header-para{
+      color: black;
+  }

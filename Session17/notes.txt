@@ -1,0 +1,18 @@
+0. function expressions
+
+1. Using setTimeout & setInterval
+    -> Methods 
+
+2. An iife statement
+
+3. Javascript Scope
+    -> global
+    -> block
+    -> function
+
+4. Hoisting in JS
+
+
+
+console.log(test)
+test = "test"

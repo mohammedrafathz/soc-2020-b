@@ -1,0 +1,15 @@
+
+1. Absolute & Relative paths, Auto path completions 
+    -> understanding how data is stored in hard disk
+
+2. Directory commands
+
+3. Files in linux
+
+4. Performing operations on files.
+
+5. What is Shell history?
+
+20000
+24096
+tilde ~

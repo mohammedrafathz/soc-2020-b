@@ -1,0 +1,73 @@
+ Recap 
+-> History of Linux
+-> Difference between Unix and Linux
+-> Different types of linux distros 
+
+1. How does the Internet work?
+    https://youtu.be/x3c1ih2NJEg
+
+2. What is World Wide Web(WWW) and history of web?
+    Its a combination of all users & resources on the internet which are using HTTP protocol
+    https://www.webfx.com/blog/web-design/the-history-of-the-internet-in-a-nutshell/
+
+3. World's first website 
+    http://info.cern.ch/hypertext/WWW/TheProject.html
+    http://info.cern.ch/
+    https://www.history.com/news/the-worlds-first-web-site
+
+4. What is HTTP protocol.
+    HYPER TEXT TRANSFER PROTOCOL
+    An application level protocol for web app to communicate & exchange data
+
+    Features of HTTP protocol
+        -> TCP/IP based protocol
+        -> Connectionless
+        -> Stateless
+        -> Any type of resource sharing
+
+5. Request response cycle
+
+6. Anatomy of HTTP message
+    -> Setup a simple HTTP server using python
+        Python 2.7 => sudo python -m SimpleHTTPServer 8080
+        Python 3 => sudo python3 -m http.server 8080
+        
+7. Client - Server Architecture
+    -> It is a computing model where server hosts, delivers and managers the  resources and the client consumes those services
+    
+
+8. Webpages
+    Web Page is a single document written using Hypertext Markup Language .
+
+9. Website vs Webpage vs Web Application
+    -> Static Website 
+    -> Dynamic Websites 
+    -> Web Apps Created using a combination of programming languages and web application frameworks.
+    -> URI (Uniform Resource Identifier): It is a string of characters used to identify a resource on the internet either by location or by
+name, or both.
+    -> URN (Uniform Resource Name):It is a string of characters which is a part of an URI that indicates the name.
+    -> URL (Uniform Resource Locator): It is a string of characters but it refers to just the address.
+    -> URL Fragment & Query String
+
+
+https://stackoverflow.com/questions/4913343/what-is-the-difference-between-uri-url-and-urn
+
+10. HTML 
+    -> What are tags
+        -> Opening & Closing Tags
+    -> Attributes or properties
+    -> Header tags
+    -> Paragraph
+    -> Hyperlinks
+
+Reminder
+-> Social media profiles
+-> Blogs
+
+
+
+Up next 
+ -> DNS Architecture
+ -> Computer Number System
+
+ sudo apt-get install python3

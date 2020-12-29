@@ -1,0 +1,1 @@
+echo "from cron script" >> text.txt

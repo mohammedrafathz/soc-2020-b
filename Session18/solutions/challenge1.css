@@ -1,0 +1,12 @@
+@font-face{
+    font-family: Unsteady;
+    src: url("./unsteady_oversteer.ttf")
+}
+
+  p {
+    border-style: solid;
+    width: 50%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: Unsteady;
+  }

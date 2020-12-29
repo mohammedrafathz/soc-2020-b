@@ -1,0 +1,14 @@
+{
+  "name": "cli-calculator",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "calc.js",
+  "scripts": {
+    "start":"node calc.js"
+  },
+  "author": "Rafath",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

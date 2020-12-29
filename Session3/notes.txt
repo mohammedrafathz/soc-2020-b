@@ -1,0 +1,34 @@
+1. DNS Architecture.
+    What is Root server ?
+    There are 13 root servers across the globe. The 13 root name servers are operated by 12
+    independent organisations.
+    https://root-servers.org/
+
+2. Why can't computers directly communicate in a high level language?
+
+3. Computer number system for programming
+    a. Binary - base 2 - 0 1
+    b. Decimal - base 10 0 1 2 3 4 5 6 7 9
+    c. Octal - base 8 0 1 2 3 4 5 6 7
+    d. Hexa-decimal - base 16 0 1 2 3 4 5 6 7 8 9 A B C D E F
+
+if you are converting from any base to decimal or base 10 you multiple
+
+if you are converting from  decimal or base 10 to any base  you divide
+
+convert 1010 base 2 to base 10
+
+4. Binary Arithmetic
+    Addition
+    Subtraction
+    Multiplication
+    Division
+
+5. Conversion excercises
+    -> What is the Decimal equivalent of  11110000101010101 - 123221
+    -> Convert 1101 => octal
+    -> Convert 1101101111110101 => decimal
+    -> decimal 5610 => binary(1010111101010), octal(12752) & hexa decimal(15EA)
+    -> octal 231 => binary
+    -> octal 76 => decimal(62) & hexa decimal(3E)
+    -> 0xF2 => binary, octal & decimal

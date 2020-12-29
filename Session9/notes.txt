@@ -1,0 +1,12 @@
+1. Soft links vs hard links
+    -> Inode number
+
+2. File permissions in linux
+
+3. CLI editors
+    -> How to perform copy paste
+    -> Search and replace
+    -> Shorcuts
+
+4. crons jobs
+

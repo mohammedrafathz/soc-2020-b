@@ -1,0 +1,37 @@
+0. History of js
+ -> https://www.springboard.com/blog/history-of-javascript/#:~:text=JavaScript%20Origins&text=In%20September%201995%2C%20a%20Netscape,LiveScript%20and%2C%20later%2C%20JavaScript.
+
+1. Javascript programming language
+    -> client side programming
+    -> server side programming
+
+2. server side js vs client side js
+
+3. ECMA & ECMAScript
+
+4. Case sensitivity, Character set & Reserved Keywords
+
+5.  Datatypes, Dynamic typing & Variables
+    a. Primivte
+        -> string 
+        -> number
+        -> boolean 
+        -> undefined
+        -> null 
+        -> symbol
+    b. Composite
+        -> Object
+        -> Array
+        -> Function
+
+6. Statement & Types of Statements
+    -> Block
+    -> Declaration
+    -> Function
+    -> Conditional
+    -> Loops
+    -> try catch
+    -> debugger
+    -> etc
+
+7. git

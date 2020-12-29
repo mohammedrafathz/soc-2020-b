@@ -1,0 +1,64 @@
+/* @font-face{
+    font-family: Unsteady;
+    src: url("./unsteady\ oversteer.ttf")
+}
+
+p {
+    font: 2em "Unsteady";
+} */
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: "Montserrat";
+}
+
+.nav{
+    width: 100%;
+    background-color: blue;
+    height: 6em;
+}
+
+.list{
+    list-style-type: none;
+    display: inline-block;
+}
+
+.list li{
+    display: inline-block;
+    margin-top: 1.5em;
+}
+
+.list li a{
+    text-decoration: none;
+    color: white;
+}
+
+.list li a:hover{
+    text-decoration: underline;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.logo{
+    padding: 2em;
+    background-color: white;
+    margin-left: 3em;
+    margin-top: 0.4em;
+    color: blue;
+    width: 5em;
+    border-radius: 50%;
+}
+
+.nav-link{
+    padding: 2em;
+}

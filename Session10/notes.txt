@@ -1,0 +1,24 @@
+1. Responsive web design 
+
+2. Meta tags - Viewport
+
+3. Creating responsive text
+
+4. grouping tags
+
+5. intro to CSS3
+    -> user agent styles
+
+6. Ways to add CSS styling to HTML
+    -> inline
+    -> style tag or internal
+    -> external
+
+7. Cascading order
+    -> first paint
+
+
+p{
+    background-color: red
+    color: blue
+}

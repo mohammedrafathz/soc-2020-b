@@ -1,0 +1,22 @@
+1. Responsive web design
+    do's and donts
+
+    -> Do NOT use large fixed width elements
+    -> Do NOT let the content rely on a particular viewport width to render well
+    -> Use CSS media queries to apply different styling for small and large screens
+
+2. CSS Media Queries
+
+3. Making Google home page clone responsive
+
+4. Intro to JS DOM
+
+5. Using DOM to Manipulate HTML
+
+6. Project 2: Use DOM to display some text
+
+
+top to bottom parsing
+tree based
+dom can be used with any languages
+it require more memory
