@@ -6,10 +6,16 @@
     <title>Code.in - Online Coding Bootcamp</title>
     <link rel="stylesheet" href="bootstrap.min.css" />
     <link rel="stylesheet" href="custom.css" />
-    <!-- <link
+    <link
       href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&amp;family=Open+Sans&amp;display=swap"
       rel="stylesheet"
-    /> -->
+    />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"
+      integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg=="
+      crossorigin="anonymous"
+    />
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light transparent">
@@ -22,7 +28,7 @@
         aria-expanded="false"
         aria-label="Toggle navigation"
       >
-        <span class="navbar-toggler-icon"></span>
+        <span class="navbar-toggler-icon"> </span>
       </button>
 
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -50,29 +56,45 @@
           >
         </p>
       </main>
-      <section id="products">
+      <section id="products" class="text-center">
         <div class="row">
           <div class="col-sm-4">
             <div class="card kids-border">
               <div class="card-body">
-                <img src="./images/kids.png" alt="Kids Coding Bootcamp" />
-                <p>Coding Bootcamp, Platform and Program for Kids.</p>
+                <img
+                  src="./images/kids.png"
+                  alt="Kids Coding Bootcamp"
+                  width="200"
+                />
+                <p class="mt-3">
+                  Coding Bootcamp, Platform and Program for Kids.
+                </p>
               </div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="card studio-border">
               <div class="card-body">
-                <img src="./images/studio.png" alt="" />
-                <p>Live Coding Performances.</p>
+                <img
+                  src="./images/studio.png"
+                  alt=""
+                  class="mt-2"
+                  width="250"
+                />
+                <p class="mt-3">Live Coding Performances.</p>
               </div>
             </div>
           </div>
           <div class="col-sm-4">
-            <div class="card bootcamp-border  ">
+            <div class="card bootcamp-border">
               <div class="card-body">
-                <img src="./images/bootcamp.png" alt="" />
-                <p>Powering Coding Bootcamps.</p>
+                <img
+                  src="./images/bootcamp.png"
+                  alt=""
+                  width="300"
+                  class="mt-4"
+                />
+                <p class="mt-3">Powering Coding Bootcamps.</p>
               </div>
             </div>
           </div>
@@ -81,24 +103,29 @@
           <div class="col-sm-4">
             <div class="card compiler-border">
               <div class="card-body">
-                <img src="./images/compiler.png" alt="" />
-                <p>Smile and Compile;</p>
+                <img
+                  src="./images/compiler.png"
+                  alt=""
+                  width="300"
+                  class="mt-4"
+                />
+                <p class="mt-3">Smile and Compile;</p>
               </div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="card live-border">
               <div class="card-body">
-                <img src="./images/live.png" alt="" />
-                <p>Live Classrooms Powered by Intellect.</p>
+                <img src="./images/live.png" alt="" width="250" />
+                <p class="mt-3">Live Classrooms Powered by Intellect.</p>
               </div>
             </div>
           </div>
           <div class="col-sm-4">
             <div class="card email-border">
               <div class="card-body">
-                <img src="./images/email.png" alt="" />
-                <p>Not for the ordinary.</p>
+                <img src="./images/email.png" alt="" width="250" class="mt-2" />
+                <p class="mt-3">Not for the ordinary.</p>
               </div>
             </div>
           </div>
@@ -107,16 +134,17 @@
           <div class="col-sm-4">
             <div class="card edu-border">
               <div class="card-body">
-                <img src="./images/edu.png" alt="" />
-                <p>Classrooms for Smart India.</p>
+                <img src="./images/edu.png" alt="" width="200" class="mt-2" />
+                <p class="mt-3">Classrooms for Smart India.</p>
               </div>
             </div>
           </div>
-          <div class="col-sm-4 ">
+          <div class="col-sm-4">
             <div class="card apply-border">
               <div class="card-body">
-                <img src="./images/apply.png" alt="" />
-                <p>
+                <img src="./images/apply.png" alt="" class="mt-2" />
+                <p class="text-right apply-text">APPLY</p>
+                <p class="mt-3">
                   Application Management Systems for Coding Bootcamp. Fast.
                   Better.
                 </p>
@@ -126,8 +154,13 @@
           <div class="col-sm-4">
             <div class="card community-border">
               <div class="card-body">
-                <img src="./images/community.png" alt="" />
-                <p>Bringing great minds together.</p>
+                <img
+                  src="./images/community.png"
+                  alt=""
+                  width="218"
+                  class="mt-"
+                />
+                <p class="mt-3">Bringing great minds together.</p>
               </div>
             </div>
           </div>
@@ -135,22 +168,68 @@
       </section>
     </div>
     <footer>
-      <div class="float-left">
-        <h4 class="logo">CODE.IN</h4>
-        <ul class="footer-list">
-          <li><a href="#">Privacy</a></li>
-          <li><a href="">Terms</a></li>
-        </ul>
-      </div>
-      <div class="float-right">
-          <ul class="footer-list">
-              <li>FOLLOW US:</li>
-              <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-              <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-              <li><a href="#"><i class="fa fa-youtube"></i></a></li>
-              <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+      <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand logo footer-logo" href="#">CODE.IN</a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#navbarSupportedContent"
+          aria-controls="navbarSupportedContent"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"> </span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="#">Privacy</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Terms</a>
+            </li>
           </ul>
-      </div>
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item my-3">
+              <h5>Follow us:</h5>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <i class="fa fa-twitter-square social-icon"> </i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <i class="fa fa-facebook-square social-icon"> </i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <i class="fa fa-youtube-square social-icon"> </i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">
+                <i class="fa fa-linkedin-square social-icon"> </i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </nav>
     </footer>
+    <script>
+      const logo = document.querySelector(".logo");
+      const footerLogo = document.querySelector(".footer-logo");
+      const colors = ["#DB4437", "#4285F4", "#F4B400", "#0F9D58"];
+
+      setInterval(function () {
+        let randomColor = Math.floor(Math.random() * (3 - 0 + 1)) + 0;
+
+        logo.style.color = colors[randomColor];
+        footerLogo.style.color = colors[randomColor]
+      }, 1000);
+    </script>
   </body>
 </html>

@@ -1,4 +1,8 @@
 
+body{
+    font-family:"Nunito", sans-serif;
+}
+
 @font-face{
     font-family: "Unsteady";
     src: url("./unsteady_oversteer.ttf");
@@ -19,7 +23,7 @@
 
 .main-container{
     text-align: center;
-    margin: 150px 0 200px 0;
+    margin: 120px 0 120px 0;
 }
 
 .logo{
@@ -29,6 +33,7 @@
 
 .logo-highlight{
     font-size: 58px;
+    font-weight: 600;
 }
 
 .first-bootcamp{
@@ -82,3 +87,44 @@
 .community-border{
     border-top: 2px solid #FF1717;
 }   
+
+.apply-text{
+    color: black !important;
+    font-weight: bold !important;
+    font-size: 1.5rem !important;
+}
+
+footer{
+    display: block;
+    margin-top:10% ;
+    width: 100%;
+    padding: 25px 0;
+    background-color: #F8F9FA;
+    border-top: 1px solid #dadce0;
+    border-bottom: 1px solid #dadce0;
+}
+
+.footer-logo{
+    font-size: 40px;
+}
+
+.footer-list li{
+    display: inline-block;
+    list-style: none;
+    padding: 0 18px;
+}
+
+.social-icon{
+    color: black;
+    font-size: 32px !important;
+}
+
+@media (max-width: 699px){
+    .logo {
+        font-size: 60px !important;
+    }
+
+    .logo-highlight{
+        font-size: 30px !important;
+    }
+}
